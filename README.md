@@ -1,5 +1,5 @@
 
-![Screenshot](./Pasted%image%20260422084734.png)
+![Screenshot](./screenshot-terminal.png)
 
 In combinatie met K9s:
 
